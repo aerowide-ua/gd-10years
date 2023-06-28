@@ -2,4 +2,8 @@
 
 h1 {
     font-family: 'Roboto Mono', monospace;
+    text-align: center;
+}
+#header {
+    margin: 2% 2% 2% 2%;
 }
