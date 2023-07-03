@@ -1,8 +1,13 @@
+@font-face {
+    font-family: Pusab;
+    src: url("font/PUSAB.otf") format("opentype");
+} 
+
 *{
     padding: 0;
     margin: 0;
     box-sizing: border-box;
-    font-family: "Poppins",sans-serif;
+    font-family: "Pusab",sans-serif;
     color: #ffffff;
 }
 body{
