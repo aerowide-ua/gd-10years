@@ -8,14 +8,25 @@
 body{
     background-color: #111111;
 }
-.countdown{
-    width: 80vw;
+.countdown {
+    width: 100%;
+    height: 30%;
     display: flex;
     justify-content: space-around;
-    gap: 10px;
+    align-items: center;
+    gap: 1px;
     position: absolute;
     transform: translate(-50%,-50%);
-    top: 50%;
+    top: 30%;
     left: 50%;
     font-size: 500%;
+    background-color: #171717;
+}
+
+.left {
+    margin-left: 20%;
+}
+
+.right {
+    margin-right: 20%;
 }
