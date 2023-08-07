@@ -15,13 +15,11 @@ body{
 }
 .countdown {
     width: 100%;
-    height: 30%;
+    height: 50%;
     display: flex;
     justify-content: space-around;
     align-items: center;
     gap: 1px;
-    position: relative;
-    transform: translate(-50%,30%);
     top: 30%;
     left: 50%;
     font-size: 500%;
@@ -49,7 +47,7 @@ body{
 .centcont {
     display: flex;
     justify-content: center;
-    margin-top: 5%;
+    margin-top: 10px;
 }
 .flexx {
     display: flex;
