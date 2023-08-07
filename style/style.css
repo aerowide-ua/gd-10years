@@ -42,7 +42,7 @@ body{
 .cent {
     width: 240px;
     height: 135px;
-    border-radius: 10%;
+    border-radius: 20px;
 }
 .centcont {
     display: flex;
